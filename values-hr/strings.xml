@@ -1,0 +1,521 @@
+<resources>
+
+    <string name="action_settings">Postavke</string>
+    <string name="action_about">O aplikaciji</string>
+    <string name="action_info_center">Informacijski centar</string>
+    <string name="action_screen_test">Test ekrana</string>
+    <string name="action_audio_test">Test zvuka</string>
+    <string name="action_engineer_menu">Engineering menu</string>
+    <string name="action_test_fake">Test lažnog teksta</string>
+
+    <string name="nav_header_options">Postavke</string>
+    <string name="action_rate_app">Ocjeni aplikaciju</string>
+    <string name="action_upgrade_to_pro">Nadogradnja na PRO</string>
+
+
+    <!-- Tabs -->
+    <string name="tab_general">Općenito</string>
+    <string name="tab_soc">SoC</string>
+    <string name="tab_monitor">Monitor</string>
+    <string name="tab_system">Sustav</string>
+    <string name="tab_memory">Memorija</string>
+    <string name="tab_camera">Kamera</string>
+    <string name="tab_battery">Baterija</string>
+    <string name="tab_thermal">Temperatura</string>
+    <string name="tab_sensors">Senzori</string>
+    <string name="tab_applications">Aplikacije</string>
+    <string name="tab_project">Projekt</string>
+    <string name="tab_drivers">Driveri</string>
+    <string name="tab_partitions">Particije</string>
+    <string name="tab_mounts">Mounts</string>
+    <string name="tab_pmic">PMIC</string>
+    <string name="tab_net">Mreža</string>
+    <string name="tab_input">Ulazi</string>
+    <string name="tab_usb">USB</string>
+    <string name="tab_codecs">Kodeci</string>
+    <string name="tab_screen">Zaslon</string>
+
+    <string name="tab_system_apps">Aplikacija sustava</string>
+    <string name="tab_camera_supported">Podržane kamere</string>
+    <string name="tab_cpu_monitor">CPU Monitor</string>
+    <string name="tab_cpu_time">Vrijeme rada CPU-a</string>
+
+    <string name="basic_info">Osnovno</string>
+    <string name="gl_extensions">OpenGL proširenja</string>
+    <string name="device_features">Značajke uređaja</string>
+
+    <!-- Tabs single list -->
+
+    <!-- Menu -->
+    <string name="device">Uređaj</string>
+    <string name="manufacturer">Proizvođač</string>
+    <string name="model">Način</string>
+    <string name="brand">Brand</string>
+    <string name="model_name">Naziv modela</string>
+
+    <string name="platform">Platforma</string>
+    <string name="board">Ploča</string>
+    <string name="resolution">Rezolucija</string>
+    <string name="max_resolution">Max. rezolucija</string>
+    <string name="current_resolution">Trenutna rezolucija</string>
+    <string name="ratio">Omjer</string>
+    <string name="wide_color_gamut">Široki raspon boja</string>
+    <string name="wide_color_supported">Podržano</string>
+
+    <string name="codename">Kodnog imena</string>
+    <string name="release">Izdanje</string>
+
+    <string name="machine_arch">Machine</string>
+
+    <string name="kernel">Kernel</string>
+
+    <string name="ram">RAM</string>
+    <string name="free">Slobodno:</string>
+    <string name="used">Iskorišteno:</string>
+    <string name="total">Ukupno:</string>
+    <string name="flash">Flash</string>
+    <string name="flash_size">Veličina flash memorije</string>
+
+    <string name="sound">Zvuk</string>
+    <string name="fingerprint_sensor">Otisak prsta</string>
+
+    <string name="baseband">Osnovni opseg</string>
+    <string name="serial">Serijski</string>
+    <string name="build">Build</string>
+    <string name="security">Sigurnost</string>
+    <string name="uptime">Vrijeme rada</string>
+
+    <string name="product">Proizvod</string>
+    <string name="type">Tip</string>
+    <string name="build_type">Build type</string>
+    <string name="tags">Oznake</string>
+    <string name="incremental">Inkrementalno</string>
+    <string name="build_date">Build date</string>
+    <string name="fingerprint">Otisak prsta</string>
+    <string name="description">Opis</string>
+    <string name="bootloader">Učitač</string>
+    <string name="builder">Builder</string>
+    <string name="supported_features">Značajke uređaja</string>
+    <string name="features">Značajke</string>
+    <string name="language">Jezik</string>
+    <string name="timezone">Vremenska zona</string>
+
+    <string name="version">Verzija</string>
+
+    <string name="enabled">Omogućeno</string>
+    <string name="disabled">Onemogućeno</string>
+
+    <!-- Components -->
+    <string name="lcm">LCM</string>
+    <string name="lcm_type">LCD Tip</string>
+    <string name="lcm_tech">Tehnologija</string>
+    <string name="touchscreen">Zaslon osjetljiv na dodir</string>
+    <string name="touchscreen_key">Tipke na dodir</string>
+    <string name="other">Ostalo</string>
+    <string name="unknown">Ostalo unknown</string>
+    <string name="alsps">Als/ps</string>
+    <string name="camera">Kamera</string>
+    <string name="lens_af">Objektiv AF</string>
+    <string name="charger">Punjač</string>
+    <string name="audio">Audio</string>
+    <string name="ethernet">Ethernet</string>
+
+
+    <!-- CPU / GPU -->
+    <string name="cpu">CPU</string>
+    <string name="cpu_vendor">Vendor</string>
+    <string name="cores">Jezgre</string>
+    <string name="revision">Revizija</string>
+    <string name="family">Obitelj</string>
+    <string name="mode">Način</string>
+    <string name="mode_supported">Podržano</string>
+    <string name="abis">Podržano ABI</string>
+    <string name="instructions">Upute</string>
+    <string name="techprocess">Tehnologija obrade</string>
+    <string name="techmanuf">Proizvodnja</string>
+    <string name="unit_nm">nm</string>
+    <string name="clock_speed">Brzina takta</string>
+    <string name="governor">Guverner</string>
+    <string name="clusters">Klasteri</string>
+    <string name="cache_l3">Predmemorija L3</string>
+    <string name="gpu_vendor">Vendor</string>
+    <string name="gpu_model">GPU</string>
+    <string name="gpu_clock">Brzina takta</string>
+    <string name="gpu_cufreq">Trenutna brzina</string>
+    <string name="gpu_extensions">Proširenja</string>
+
+    <string name="density">Gustoća</string>
+    <string name="refresh_rate">Brzina osvježavanja</string>
+    <string name="diagonal">Dijagonala</string>
+    <string name="size">Veličina</string>
+    <string name="modes">Načins</string>
+    <string name="luminance">Luminancija</string>
+
+    <string name="bt_or_higher">ili viši</string>
+
+
+    <!-- Sensors -->
+    <string name="test">TEST</string>
+    <string name="info">INFO</string>
+
+    <string name="title_activity_light_sensor">Test senzora svjetlosti</string>
+    <string name="title_activity_proximity_sensor">Test senzora blizine</string>
+    <string name="title_activity_accelerometer_sensor">Test akcelerometra</string>
+    <string name="title_activity_magnetometer_sensor">Test magnetometra</string>
+    <string name="title_activity_gyroscope_sensor">Test žiroskopa</string>
+    <string name="title_activity_pressure_sensor">Test barometra</string>
+
+
+    <string name="accelerometer">Akcelerometar</string>
+    <string name="magnetometer">Magnetometar</string>
+    <string name="gyroscope">Žiroskop</string>
+    <string name="proximity">Blizina</string>
+    <string name="light">Svjetlo</string>
+    <string name="pressure">Barometar</string>
+
+
+    <string name="no_input_data">Nema podataka sa senzora</string>
+    <string name="sensor_list">Senzori</string>
+
+    <string name="unit_accelerometer">m/s²</string>
+    <string name="unit_light">lx</string>
+    <string name="unit_proximity">cm</string>
+    <string name="unit_magnetometer">μT</string>
+    <string name="unit_gyroscope">rad/s</string>
+    <string name="unit_pressure">mbar</string>
+    <string name="unit_pressure_mm">mm Hg</string>
+
+    <string name="s_name">Name:</string>
+    <string name="s_vendor">Vendor:</string>
+    <string name="s_version">Verzija:</string>
+    <string name="s_max_range">Max range:</string>
+    <string name="s_resolution">Rezolucija:</string>
+    <string name="s_power">Power:</string>
+    <string name="s_unit">Unit:</string>
+    <string name="s_type">Tip:</string>
+
+    <string name="unsupported">unsupported</string>
+
+    <string name="total_sensors">Ukupno:</string>
+
+    <!-- Memory -->
+
+    <string name="internal_storage">Internal Storage</string>
+    <string name="external_storage">External Storage</string>
+
+    <!-- Camera -->
+
+    <string name="camera_vendor">Vendor</string>
+    <string name="camera_model">Načinl</string>
+    <string name="camera_supported">Podržano</string>
+
+    <string name="software">Software</string>
+    <string name="hardware">Hardware</string>
+
+    <string name="orientation">Orientation</string>
+    <string name="camera_flash">Flash</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="mp">MP</string>
+    <string name="video_resolution">Video</string>
+    <string name="focal_length">Focal length</string>
+    <string name="focal_length_35mm">Focal length (equivalent 35 mm)</string>
+    <string name="camera2_api">Kamera2 API</string>
+    <string name="camera_formats">Formati fotografija</string>
+    <string name="camera_size">Sensor size</string>
+    <string name="optical_format">Optical format</string>
+    <string name="camera_diagonal">Dijagonala</string>
+    <string name="pixel_size">Pixel size</string>
+    <string name="camera_af_modes">Načini fokusa</string>
+    <string name="aperture">Aperture</string>
+    <string name="camera_phy_count">Tip modula</string>
+    <string name="camera_add_modules">Dodatne kamere</string>
+    <string name="camera_all_modules">Moduli</string>
+    <string name="camera_sw_info">Info</string>
+    <string name="camera_color_filter">Filter boja</string>
+    <string name="camera_view_angle">Kut vidljivosti</string>
+    <string name="zoom">Zoom</string>
+    <string name="crop_factor">Crop factor</string>
+    <string name="unit_um">µm</string>
+    <string name="unit_mm">mm</string>
+    <string name="unit_cm">cm</string>
+    <string name="allow">Allow</string>
+    <string name="cam_res_max_info">- For some devices where the camera uses pixel binning like 4-in-1, only the base resolution is available.</string>
+    <string name="cam_res_max_info_perm">- Kako bi dobili maksimalnu rezoluciju fotografija morate dati dozvole aplikaciji</string>
+
+    <string name="cameras_not_found">Kamera nije pronađena</string>
+
+    <!-- Battery -->
+
+    <string name="level">Level</string>
+    <string name="health">Zdravlje</string>
+    <string name="status">Status</string>
+
+    <string name="power_source">Izvor napajana</string>
+    <string name="technology">Tehnologija</string>
+    <string name="temperature">Temperatura</string>
+    <string name="voltage">Voltaža</string>
+    <string name="power_profile">Power profile</string>
+    <string name="nominal_profile">Nominal profile</string>
+    <string name="kernel_profile">Jezgra profil</string>
+    <string name="charged_to">Napunjen do</string>
+    <string name="battery_model">Načinl</string>
+    <string name="consumption">Potrošnja</string>
+    <string name="charge_speed">Brzina punjenja</string>
+    <string name="discharge_speed">Brzina pražnjenja</string>
+    <string name="time_to_full_charge">Vrijeme potrebno za potpuno punjenje</string>
+    <string name="bat_cycle_count">Broj ciklusa punjenja</string>
+    <string name="throttling">Throttling</string>
+
+    <string name="charge_ac">Charge via AC</string>
+    <string name="charge_usb">Charge via USB</string>
+    <string name="quick_charge">Quick Charge</string>
+
+    <string name="samsung_battery_help">For samsung in power profile is minimal capacity. Nominal profile is typical capacity.</string>
+
+    <string name="thermal_not_found">Toplinski senzor nije pronađen</string>
+
+    <!-- Net -->
+    <string name="link_speed">Link speed</string>
+    <string name="frequency">Frekvencija</string>
+    <string name="signal">Signal</string>
+    <string name="channel">Kanal</string>
+    <string name="net_level">Level</string>
+    <string name="not_connected">Nije povezano</string>
+    <string name="standard">Standard</string>
+    <string name="support_ghz">Band %1d GHz</string>
+    <string name="wifi_connection">Veza</string>
+
+    <!-- SIM -->
+    <string name="sim_phone_type">Tip telefona</string>
+    <string name="sim_operator_name">Operater</string>
+    <string name="sim_operator_code">Kod operatera</string>
+    <string name="sim_country_code">Kod države</string>
+    <string name="network_type">Tip mreže</string>
+    <string name="sim_state">SIM state</string>
+    <string name="sim_icc_card">ICC card</string>
+
+    <!-- Partition -->
+
+    <string name="partition_name">Ime</string>
+    <string name="partition_address">Startna adresa</string>
+    <string name="partition_size">Veličina particije</string>
+    <string name="partitions_not_found">Particija nije pronađena</string>
+
+    <!-- System -->
+
+    <string name="uptime_days">dana</string>
+
+    <!-- CPU Monitor -->
+
+    <string name="cpu_label">CPU</string>
+    <string name="cpu_load">Opterećenje:</string>
+    <string name="cpu_core">core</string>
+
+    <string name="gpu_label">GPU</string>
+
+    <!-- LCD + Touch Test -->
+
+    <string name="lcd_label">LCD</string>
+    <string name="lcd_info">LCD test prikaaz boja</string>
+    <string name="lcd_desc">Provjeri prikaz boja i mrtve piksele</string>
+
+    <string name="lcd_type_label">LCD tip</string>
+    <string name="lcd_type_info">Test LCD uštede energije</string>
+    <string name="lcd_type_desc">Check energy saving for determine lcd type</string>
+    <string name="lcd_type_test_avg">Average consumption for colors</string>
+    <string name="lcd_type_test_examples_label">Examples for black color at maximum brightness</string>
+
+    <string name="start">Pokreni</string>
+
+    <string name="multitouch_label">Multi-touch</string>
+    <string name="multitouch_info">Pokreni test broja dodira zaslona osjetljivog na dodir</string>
+    <string name="multitouch_desc">Provjeri koliko prstiju registrira ekran</string>
+
+    <string name="touchdraw_label">Crtanje prstom</string>
+    <string name="touchdraw_info">Test crtanja po ekranu</string>
+    <string name="touchdraw_desc">Check accuracy of touch and dead zones</string>
+
+    <!-- USB -->
+
+    <string name="usb_path">Put</string>
+    <string name="usb_num">Broj</string>
+    <string name="usb_bus">Uređaj ID</string>
+    <string name="usb_ver">Verzija</string>
+    <string name="usb_not_found">Uređaji nisu pronađeni</string>
+
+    <!-- MTK -->
+
+    <string name="modem">Način</string>
+    <string name="camera_back">Kamera straga</string>
+    <string name="camera_front">Kamera sprijeda</string>
+    <string name="mtk_build">Build</string>
+    <string name="mtk_platform">Platform MTK</string>
+
+    <!-- Report -->
+
+
+    <string name="firmware">Firmware</string>
+
+    <!-- Strings related to Settings -->
+
+    <string name="title_activity_settings">Postavke</string>
+
+    <string name="pref_category_general">Općenito</string>
+    <string name="pref_category_appearance">Izgled</string>
+    <string name="pref_category_other">Ostalo</string>
+
+    <string name="pref_title_set_language">Jezik</string>
+
+    <string name="language_default">Default</string>
+
+    <string name="pref_title_use_root">Use root</string>
+    <string name="pref_description_use_root">Za dobivanje cjelovitih informacija</string>
+
+    <string name="pref_title_show_address">Show i2c address</string>
+    <string name="pref_description_show_address">Show device i2c address</string>
+
+    <string name="pref_title_dark_theme">Koristi tamnu temu</string>
+    <string name="pref_description_dark_theme">Primjeni tamnu temu</string>
+
+    <string name="pref_title_theme">Tema uređaja</string>
+
+    <string name="pref_text_scale">Skaliranje teksta</string>
+
+    <string name="pref_hide_tab_bar">Sakrij tab</string>
+
+    <string name="pref_title_invert_charge_speed">Invertiraj energiju punjenja</string>
+    <string name="pref_description_invert_charge_speed">Invert battery charge / discharge speed</string>
+
+    <string name="pref_title_battery_current_unit">Battery current unit</string>
+
+    <string name="pref_title_use_charged_to">Koristi \'napunjena do\'</string>
+    <string name="pref_description_use_charged_to">Prikaži \'napunjena do\' vrijednost baterije, no nisu svi uređaji podržani</string>
+
+    <string name="pref_title_temp_in_f_deg">Temperatura u &#xb0;F</string>
+    <string name="pref_description_temp_in_f_deg">Prikaži temperaturu u Fahrenheit</string>
+
+    <string name="pref_title_detect_therm_zones">Detect thermal zones</string>
+    <string name="pref_description_detect_therm_zones">Detect thermal zone names (root)</string>
+
+    <string name="pref_title_ad_tz_name">Ime toplinske zone</string>
+    <string name="pref_description_ad_tz_name">Show thermal zone name</string>
+
+    <string name="pref_title_use_pressure_mm_hg">Jedinice tlaka</string>
+    <string name="pref_description_use_pressure_mm_hg">Koristi jedinicu mm Hg</string>
+
+    <!-- Strings related to Message of first install -->
+
+
+    <string name="first_install_title">Poruka</string>
+
+    <string name="root_hw_detect">U novim verzijama Androida neke informacije su blokirane.
+ Ako imate root pristup, možete ga omogućiti u postavkama za pružanje potpunih informacija.</string>
+
+    <!-- Defender -->
+    <string name="app_defender">App Defender</string>
+    <string name="app_defender_msg">Sorry, but defender can\'t check app validity.\nPlease connect to the internet and click on the recheck.</string>
+    <string name="app_recheck">Ponovno provjeri</string>
+    <string name="app_exit">Izlaz</string>
+
+    <!-- PRO -->
+
+    <string name="using_theme_start_non_pro">Možete koristiti tamnu temu 14 dana, nakon toga je morate nadograditi na PRO.</string>
+    <string name="using_theme_expired_non_pro">Sorry, but free using black theme expired!\nIt\'s available in PRO version.</string>
+
+
+    <string name="pro_version_info">
+Značajke:\n
+ • Full theme support\n
+ • Create report and send by email\n
+ • Copy text by long press in info lists\n
+ • New design of battery tab with charge / discharge chart\n
+ • Extra info for installed applications\n
+ • Tab CPU freq chart\n
+ • Early access to new version
+</string>
+
+    <!-- Info center -->
+    <string name="update">Ažuriranje</string>
+    <string name="updating">Ažuriram</string>
+
+    <string name="upload">Objavi</string>
+
+    <string name="create_report">Kreiraj izvještaj</string>
+    <string name="create_report_msg">Report successfully created!\nLook in</string>
+    <string name="create_report_err">Can\'t create report!</string>
+    <string name="create_report_err_non_pro">Can not create report!\nIt\'s available in PRO version.</string>
+    <string name="create_report_info">Uređaj information will be saved to file in app data folder.</string>
+    <string name="create">Kreiraj</string>
+
+    <string name="error">Greška</string>
+    <string name="close">Zatvori</string>
+    <string name="open">Otvori</string>
+    <string name="share">Podijeli</string>
+    <string name="send_to_email">Pošalji emailom:</string>
+
+    <string name="cpu_codenames_label">CPU codenames</string>
+    <string name="cpu_codenames_info">List of CPU codenames</string>
+
+    <string name="update_components_label">Komponente uređaja</string>
+    <string name="update_components_msg">Update detection rules database</string>
+    <string name="update_component_msg">Detection rules successfully updated. Restart application for apply changes.</string>
+
+    <string name="upload_info_label">Upload device information</string>
+    <string name="upload_info_text">It helps make program better, improve devices support
+        and other developers can find similar devices and needed drivers.
+        Result stored in database. You can see on:</string>
+
+    <string name="kernel_analyzer_label">Analiziraj jezgre</string>
+
+    <string name="i2c_viewer_label">Lista uređaja</string>
+    <string name="i2c_viewer_info">Uređaj na i2c, spi bus</string>
+
+    <string name="exif_cam_label">EXIF Kamera Info</string>
+    <string name="exif_cam_info">Read EXIF info from image</string>
+    <string name="open_img_file_label">Open image file…</string>
+
+
+    <string name="error_read_sysfs">Sorry, but on yours firmware reading sysfs is disabled. Only partial information available.</string>
+
+    <string name="title_bat_show_chart_rate">Charge / discharge chart</string>
+
+    <!-- Audio test -->
+
+    <string name="stereo">Stereo</string>
+    <string name="left">Lijevo</string>
+    <string name="right">Desno</string>
+    <string name="ear">Ear</string>
+
+    <!-- Codecs -->
+
+    <string name="codec_info">Codec info</string>
+    <string name="codec_type">Tip:</string>
+    <string name="codec_group">Grupa:</string>
+
+    <!-- App info -->
+
+    <string name="sort">Sort:</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_package">Package</string>
+    <string name="sort_updated">Updated</string>
+
+    <string name="app_details">Detalji aplikacije</string>
+    <string name="app_extract">Izdvoji</string>
+    <string name="app_extract_ok">Izvdojeno uspješno</string>
+    <string name="app_extract_err">Izdvjanje nije uspjelo!</string>
+
+    <!-- Clipboard -->
+
+    <string name="copied_to_clipboard">Kopirano u međuspremnik:</string>
+
+    <!-- Strings related to About -->
+
+    <string name="about_version">verzija</string>
+
+    <string name="about_author">autor\n
+        Andrey Efremov\n
+        aka andr7e</string>
+
+
+</resources>
