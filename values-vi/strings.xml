@@ -494,6 +494,11 @@ Tính năng:\n
 
     <!-- App info -->
 
+    <string name="sort">Sort:</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_package">Package</string>
+    <string name="sort_updated">Updated</string>
+
     <string name="app_details">Chi tiết ứng dụng</string>
     <string name="app_extract">Giải nén</string>
     <string name="app_extract_ok">Đã giải nén thành công tới</string>

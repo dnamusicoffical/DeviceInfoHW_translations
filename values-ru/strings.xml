@@ -493,6 +493,11 @@
 
     <!-- App info -->
 
+    <string name="sort">Сортировать:</string>
+    <string name="sort_name">Название</string>
+    <string name="sort_package">Пакет</string>
+    <string name="sort_updated">Обновлено</string>
+
     <string name="app_details">Подробности</string>
     <string name="app_extract">Извлечь</string>
     <string name="app_extract_ok">Успешно извлечено в</string>

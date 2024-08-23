@@ -496,6 +496,11 @@
 
     <!-- App info -->
 
+    <string name="sort">Sort:</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_package">Package</string>
+    <string name="sort_updated">Updated</string>
+
     <string name="app_details">Uygulama detayları</string>
     <string name="app_extract">Çıkar</string>
     <string name="app_extract_ok">Şuraya başarılıyla çıkarıldı</string>

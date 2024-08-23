@@ -492,6 +492,11 @@ Recursos:\n
 
     <!-- App info -->
 
+    <string name="sort">Sort:</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_package">Package</string>
+    <string name="sort_updated">Updated</string>
+
     <string name="app_details">Detalhes do aplicativo</string>
     <string name="app_extract">Extrair</string>
     <string name="app_extract_ok">Extraído com sucesso para</string>

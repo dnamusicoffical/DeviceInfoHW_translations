@@ -554,6 +554,11 @@ Features:\n
 
     <!-- App info -->
 
+    <string name="sort">Sort:</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_package">Package</string>
+    <string name="sort_updated">Updated</string>
+
     <string name="app_details">App details</string>
     <string name="app_extract">Extract</string>
     <string name="app_extract_ok">Extracted successfully to</string>
